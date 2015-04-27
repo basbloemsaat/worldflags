@@ -19,6 +19,7 @@ use Web::Query;
 make_path("../flags");
 
 my $flagcodes = {};
+my $countrylist = {};
 my $json = JSON->new()->pretty( [1] )->utf8( [1] )->canonical( [1] );
 
 wq('http://en.wikipedia.org/wiki/List_of_FIFA_country_codes')
@@ -42,7 +43,10 @@ wq('http://en.wikipedia.org/wiki/List_of_FIFA_country_codes')
             $flagcodes->{$code}->{$size} = "flags/$code" . "_$size.png";
         }
 
+        $countrylist->{$name} = $code;
+
     },
     );
 
 $json->encode($flagcodes) > io('../flags.json');
+$json->encode($countrylist) > io('../countries.json');
