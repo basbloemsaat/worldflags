@@ -1,1542 +1,1982 @@
 {
    "AFG" : {
+      "128" : "flags/AFG_128.png",
       "16" : "flags/AFG_16.png",
       "24" : "flags/AFG_24.png",
       "32" : "flags/AFG_32.png",
       "48" : "flags/AFG_48.png",
-      "64" : "flags/AFG_64.png"
+      "64" : "flags/AFG_64.png",
+      "96" : "flags/AFG_96.png"
    },
    "AIA" : {
+      "128" : "flags/AIA_128.png",
       "16" : "flags/AIA_16.png",
       "24" : "flags/AIA_24.png",
       "32" : "flags/AIA_32.png",
       "48" : "flags/AIA_48.png",
-      "64" : "flags/AIA_64.png"
+      "64" : "flags/AIA_64.png",
+      "96" : "flags/AIA_96.png"
    },
    "ALB" : {
+      "128" : "flags/ALB_128.png",
       "16" : "flags/ALB_16.png",
       "24" : "flags/ALB_24.png",
       "32" : "flags/ALB_32.png",
       "48" : "flags/ALB_48.png",
-      "64" : "flags/ALB_64.png"
+      "64" : "flags/ALB_64.png",
+      "96" : "flags/ALB_96.png"
    },
    "ALG" : {
+      "128" : "flags/ALG_128.png",
       "16" : "flags/ALG_16.png",
       "24" : "flags/ALG_24.png",
       "32" : "flags/ALG_32.png",
       "48" : "flags/ALG_48.png",
-      "64" : "flags/ALG_64.png"
+      "64" : "flags/ALG_64.png",
+      "96" : "flags/ALG_96.png"
    },
    "AND" : {
+      "128" : "flags/AND_128.png",
       "16" : "flags/AND_16.png",
       "24" : "flags/AND_24.png",
       "32" : "flags/AND_32.png",
       "48" : "flags/AND_48.png",
-      "64" : "flags/AND_64.png"
+      "64" : "flags/AND_64.png",
+      "96" : "flags/AND_96.png"
    },
    "ANG" : {
+      "128" : "flags/ANG_128.png",
       "16" : "flags/ANG_16.png",
       "24" : "flags/ANG_24.png",
       "32" : "flags/ANG_32.png",
       "48" : "flags/ANG_48.png",
-      "64" : "flags/ANG_64.png"
+      "64" : "flags/ANG_64.png",
+      "96" : "flags/ANG_96.png"
    },
    "ARG" : {
+      "128" : "flags/ARG_128.png",
       "16" : "flags/ARG_16.png",
       "24" : "flags/ARG_24.png",
       "32" : "flags/ARG_32.png",
       "48" : "flags/ARG_48.png",
-      "64" : "flags/ARG_64.png"
+      "64" : "flags/ARG_64.png",
+      "96" : "flags/ARG_96.png"
    },
    "ARM" : {
+      "128" : "flags/ARM_128.png",
       "16" : "flags/ARM_16.png",
       "24" : "flags/ARM_24.png",
       "32" : "flags/ARM_32.png",
       "48" : "flags/ARM_48.png",
-      "64" : "flags/ARM_64.png"
+      "64" : "flags/ARM_64.png",
+      "96" : "flags/ARM_96.png"
    },
    "ARU" : {
+      "128" : "flags/ARU_128.png",
       "16" : "flags/ARU_16.png",
       "24" : "flags/ARU_24.png",
       "32" : "flags/ARU_32.png",
       "48" : "flags/ARU_48.png",
-      "64" : "flags/ARU_64.png"
+      "64" : "flags/ARU_64.png",
+      "96" : "flags/ARU_96.png"
    },
    "ASA" : {
+      "128" : "flags/ASA_128.png",
       "16" : "flags/ASA_16.png",
       "24" : "flags/ASA_24.png",
       "32" : "flags/ASA_32.png",
       "48" : "flags/ASA_48.png",
-      "64" : "flags/ASA_64.png"
+      "64" : "flags/ASA_64.png",
+      "96" : "flags/ASA_96.png"
    },
    "ATG" : {
+      "128" : "flags/ATG_128.png",
       "16" : "flags/ATG_16.png",
       "24" : "flags/ATG_24.png",
       "32" : "flags/ATG_32.png",
       "48" : "flags/ATG_48.png",
-      "64" : "flags/ATG_64.png"
+      "64" : "flags/ATG_64.png",
+      "96" : "flags/ATG_96.png"
    },
    "AUS" : {
+      "128" : "flags/AUS_128.png",
       "16" : "flags/AUS_16.png",
       "24" : "flags/AUS_24.png",
       "32" : "flags/AUS_32.png",
       "48" : "flags/AUS_48.png",
-      "64" : "flags/AUS_64.png"
+      "64" : "flags/AUS_64.png",
+      "96" : "flags/AUS_96.png"
    },
    "AUT" : {
+      "128" : "flags/AUT_128.png",
       "16" : "flags/AUT_16.png",
       "24" : "flags/AUT_24.png",
       "32" : "flags/AUT_32.png",
       "48" : "flags/AUT_48.png",
-      "64" : "flags/AUT_64.png"
+      "64" : "flags/AUT_64.png",
+      "96" : "flags/AUT_96.png"
    },
    "AZE" : {
+      "128" : "flags/AZE_128.png",
       "16" : "flags/AZE_16.png",
       "24" : "flags/AZE_24.png",
       "32" : "flags/AZE_32.png",
       "48" : "flags/AZE_48.png",
-      "64" : "flags/AZE_64.png"
+      "64" : "flags/AZE_64.png",
+      "96" : "flags/AZE_96.png"
    },
    "BAH" : {
+      "128" : "flags/BAH_128.png",
       "16" : "flags/BAH_16.png",
       "24" : "flags/BAH_24.png",
       "32" : "flags/BAH_32.png",
       "48" : "flags/BAH_48.png",
-      "64" : "flags/BAH_64.png"
+      "64" : "flags/BAH_64.png",
+      "96" : "flags/BAH_96.png"
    },
    "BAN" : {
+      "128" : "flags/BAN_128.png",
       "16" : "flags/BAN_16.png",
       "24" : "flags/BAN_24.png",
       "32" : "flags/BAN_32.png",
       "48" : "flags/BAN_48.png",
-      "64" : "flags/BAN_64.png"
+      "64" : "flags/BAN_64.png",
+      "96" : "flags/BAN_96.png"
    },
    "BDI" : {
+      "128" : "flags/BDI_128.png",
       "16" : "flags/BDI_16.png",
       "24" : "flags/BDI_24.png",
       "32" : "flags/BDI_32.png",
       "48" : "flags/BDI_48.png",
-      "64" : "flags/BDI_64.png"
+      "64" : "flags/BDI_64.png",
+      "96" : "flags/BDI_96.png"
    },
    "BEL" : {
+      "128" : "flags/BEL_128.png",
       "16" : "flags/BEL_16.png",
       "24" : "flags/BEL_24.png",
       "32" : "flags/BEL_32.png",
       "48" : "flags/BEL_48.png",
-      "64" : "flags/BEL_64.png"
+      "64" : "flags/BEL_64.png",
+      "96" : "flags/BEL_96.png"
    },
    "BEN" : {
+      "128" : "flags/BEN_128.png",
       "16" : "flags/BEN_16.png",
       "24" : "flags/BEN_24.png",
       "32" : "flags/BEN_32.png",
       "48" : "flags/BEN_48.png",
-      "64" : "flags/BEN_64.png"
+      "64" : "flags/BEN_64.png",
+      "96" : "flags/BEN_96.png"
    },
    "BER" : {
+      "128" : "flags/BER_128.png",
       "16" : "flags/BER_16.png",
       "24" : "flags/BER_24.png",
       "32" : "flags/BER_32.png",
       "48" : "flags/BER_48.png",
-      "64" : "flags/BER_64.png"
+      "64" : "flags/BER_64.png",
+      "96" : "flags/BER_96.png"
    },
    "BFA" : {
+      "128" : "flags/BFA_128.png",
       "16" : "flags/BFA_16.png",
       "24" : "flags/BFA_24.png",
       "32" : "flags/BFA_32.png",
       "48" : "flags/BFA_48.png",
-      "64" : "flags/BFA_64.png"
+      "64" : "flags/BFA_64.png",
+      "96" : "flags/BFA_96.png"
    },
    "BHR" : {
+      "128" : "flags/BHR_128.png",
       "16" : "flags/BHR_16.png",
       "24" : "flags/BHR_24.png",
       "32" : "flags/BHR_32.png",
       "48" : "flags/BHR_48.png",
-      "64" : "flags/BHR_64.png"
+      "64" : "flags/BHR_64.png",
+      "96" : "flags/BHR_96.png"
    },
    "BHU" : {
+      "128" : "flags/BHU_128.png",
       "16" : "flags/BHU_16.png",
       "24" : "flags/BHU_24.png",
       "32" : "flags/BHU_32.png",
       "48" : "flags/BHU_48.png",
-      "64" : "flags/BHU_64.png"
+      "64" : "flags/BHU_64.png",
+      "96" : "flags/BHU_96.png"
    },
    "BIH" : {
+      "128" : "flags/BIH_128.png",
       "16" : "flags/BIH_16.png",
       "24" : "flags/BIH_24.png",
       "32" : "flags/BIH_32.png",
       "48" : "flags/BIH_48.png",
-      "64" : "flags/BIH_64.png"
+      "64" : "flags/BIH_64.png",
+      "96" : "flags/BIH_96.png"
    },
    "BLR" : {
+      "128" : "flags/BLR_128.png",
       "16" : "flags/BLR_16.png",
       "24" : "flags/BLR_24.png",
       "32" : "flags/BLR_32.png",
       "48" : "flags/BLR_48.png",
-      "64" : "flags/BLR_64.png"
+      "64" : "flags/BLR_64.png",
+      "96" : "flags/BLR_96.png"
    },
    "BLZ" : {
+      "128" : "flags/BLZ_128.png",
       "16" : "flags/BLZ_16.png",
       "24" : "flags/BLZ_24.png",
       "32" : "flags/BLZ_32.png",
       "48" : "flags/BLZ_48.png",
-      "64" : "flags/BLZ_64.png"
+      "64" : "flags/BLZ_64.png",
+      "96" : "flags/BLZ_96.png"
    },
    "BOE" : {
+      "128" : "flags/BOE_128.png",
       "16" : "flags/BOE_16.png",
       "24" : "flags/BOE_24.png",
       "32" : "flags/BOE_32.png",
       "48" : "flags/BOE_48.png",
-      "64" : "flags/BOE_64.png"
+      "64" : "flags/BOE_64.png",
+      "96" : "flags/BOE_96.png"
    },
    "BOL" : {
+      "128" : "flags/BOL_128.png",
       "16" : "flags/BOL_16.png",
       "24" : "flags/BOL_24.png",
       "32" : "flags/BOL_32.png",
       "48" : "flags/BOL_48.png",
-      "64" : "flags/BOL_64.png"
+      "64" : "flags/BOL_64.png",
+      "96" : "flags/BOL_96.png"
    },
    "BOT" : {
+      "128" : "flags/BOT_128.png",
       "16" : "flags/BOT_16.png",
       "24" : "flags/BOT_24.png",
       "32" : "flags/BOT_32.png",
       "48" : "flags/BOT_48.png",
-      "64" : "flags/BOT_64.png"
+      "64" : "flags/BOT_64.png",
+      "96" : "flags/BOT_96.png"
    },
    "BRA" : {
+      "128" : "flags/BRA_128.png",
       "16" : "flags/BRA_16.png",
       "24" : "flags/BRA_24.png",
       "32" : "flags/BRA_32.png",
       "48" : "flags/BRA_48.png",
-      "64" : "flags/BRA_64.png"
+      "64" : "flags/BRA_64.png",
+      "96" : "flags/BRA_96.png"
    },
    "BRB" : {
+      "128" : "flags/BRB_128.png",
       "16" : "flags/BRB_16.png",
       "24" : "flags/BRB_24.png",
       "32" : "flags/BRB_32.png",
       "48" : "flags/BRB_48.png",
-      "64" : "flags/BRB_64.png"
+      "64" : "flags/BRB_64.png",
+      "96" : "flags/BRB_96.png"
    },
    "BRU" : {
+      "128" : "flags/BRU_128.png",
       "16" : "flags/BRU_16.png",
       "24" : "flags/BRU_24.png",
       "32" : "flags/BRU_32.png",
       "48" : "flags/BRU_48.png",
-      "64" : "flags/BRU_64.png"
+      "64" : "flags/BRU_64.png",
+      "96" : "flags/BRU_96.png"
    },
    "BUL" : {
+      "128" : "flags/BUL_128.png",
       "16" : "flags/BUL_16.png",
       "24" : "flags/BUL_24.png",
       "32" : "flags/BUL_32.png",
       "48" : "flags/BUL_48.png",
-      "64" : "flags/BUL_64.png"
+      "64" : "flags/BUL_64.png",
+      "96" : "flags/BUL_96.png"
    },
    "CAM" : {
+      "128" : "flags/CAM_128.png",
       "16" : "flags/CAM_16.png",
       "24" : "flags/CAM_24.png",
       "32" : "flags/CAM_32.png",
       "48" : "flags/CAM_48.png",
-      "64" : "flags/CAM_64.png"
+      "64" : "flags/CAM_64.png",
+      "96" : "flags/CAM_96.png"
    },
    "CAN" : {
+      "128" : "flags/CAN_128.png",
       "16" : "flags/CAN_16.png",
       "24" : "flags/CAN_24.png",
       "32" : "flags/CAN_32.png",
       "48" : "flags/CAN_48.png",
-      "64" : "flags/CAN_64.png"
+      "64" : "flags/CAN_64.png",
+      "96" : "flags/CAN_96.png"
    },
    "CAY" : {
+      "128" : "flags/CAY_128.png",
       "16" : "flags/CAY_16.png",
       "24" : "flags/CAY_24.png",
       "32" : "flags/CAY_32.png",
       "48" : "flags/CAY_48.png",
-      "64" : "flags/CAY_64.png"
+      "64" : "flags/CAY_64.png",
+      "96" : "flags/CAY_96.png"
    },
    "CGO" : {
+      "128" : "flags/CGO_128.png",
       "16" : "flags/CGO_16.png",
       "24" : "flags/CGO_24.png",
       "32" : "flags/CGO_32.png",
       "48" : "flags/CGO_48.png",
-      "64" : "flags/CGO_64.png"
+      "64" : "flags/CGO_64.png",
+      "96" : "flags/CGO_96.png"
    },
    "CHA" : {
+      "128" : "flags/CHA_128.png",
       "16" : "flags/CHA_16.png",
       "24" : "flags/CHA_24.png",
       "32" : "flags/CHA_32.png",
       "48" : "flags/CHA_48.png",
-      "64" : "flags/CHA_64.png"
+      "64" : "flags/CHA_64.png",
+      "96" : "flags/CHA_96.png"
    },
    "CHI" : {
+      "128" : "flags/CHI_128.png",
       "16" : "flags/CHI_16.png",
       "24" : "flags/CHI_24.png",
       "32" : "flags/CHI_32.png",
       "48" : "flags/CHI_48.png",
-      "64" : "flags/CHI_64.png"
+      "64" : "flags/CHI_64.png",
+      "96" : "flags/CHI_96.png"
    },
    "CHN" : {
+      "128" : "flags/CHN_128.png",
       "16" : "flags/CHN_16.png",
       "24" : "flags/CHN_24.png",
       "32" : "flags/CHN_32.png",
       "48" : "flags/CHN_48.png",
-      "64" : "flags/CHN_64.png"
+      "64" : "flags/CHN_64.png",
+      "96" : "flags/CHN_96.png"
    },
    "CIV" : {
+      "128" : "flags/CIV_128.png",
       "16" : "flags/CIV_16.png",
       "24" : "flags/CIV_24.png",
       "32" : "flags/CIV_32.png",
       "48" : "flags/CIV_48.png",
-      "64" : "flags/CIV_64.png"
+      "64" : "flags/CIV_64.png",
+      "96" : "flags/CIV_96.png"
    },
    "CMR" : {
+      "128" : "flags/CMR_128.png",
       "16" : "flags/CMR_16.png",
       "24" : "flags/CMR_24.png",
       "32" : "flags/CMR_32.png",
       "48" : "flags/CMR_48.png",
-      "64" : "flags/CMR_64.png"
+      "64" : "flags/CMR_64.png",
+      "96" : "flags/CMR_96.png"
    },
    "COD" : {
+      "128" : "flags/COD_128.png",
       "16" : "flags/COD_16.png",
       "24" : "flags/COD_24.png",
       "32" : "flags/COD_32.png",
       "48" : "flags/COD_48.png",
-      "64" : "flags/COD_64.png"
+      "64" : "flags/COD_64.png",
+      "96" : "flags/COD_96.png"
    },
    "COK" : {
+      "128" : "flags/COK_128.png",
       "16" : "flags/COK_16.png",
       "24" : "flags/COK_24.png",
       "32" : "flags/COK_32.png",
       "48" : "flags/COK_48.png",
-      "64" : "flags/COK_64.png"
+      "64" : "flags/COK_64.png",
+      "96" : "flags/COK_96.png"
    },
    "COL" : {
+      "128" : "flags/COL_128.png",
       "16" : "flags/COL_16.png",
       "24" : "flags/COL_24.png",
       "32" : "flags/COL_32.png",
       "48" : "flags/COL_48.png",
-      "64" : "flags/COL_64.png"
+      "64" : "flags/COL_64.png",
+      "96" : "flags/COL_96.png"
    },
    "COM" : {
+      "128" : "flags/COM_128.png",
       "16" : "flags/COM_16.png",
       "24" : "flags/COM_24.png",
       "32" : "flags/COM_32.png",
       "48" : "flags/COM_48.png",
-      "64" : "flags/COM_64.png"
+      "64" : "flags/COM_64.png",
+      "96" : "flags/COM_96.png"
    },
    "CPV" : {
+      "128" : "flags/CPV_128.png",
       "16" : "flags/CPV_16.png",
       "24" : "flags/CPV_24.png",
       "32" : "flags/CPV_32.png",
       "48" : "flags/CPV_48.png",
-      "64" : "flags/CPV_64.png"
+      "64" : "flags/CPV_64.png",
+      "96" : "flags/CPV_96.png"
    },
    "CRC" : {
+      "128" : "flags/CRC_128.png",
       "16" : "flags/CRC_16.png",
       "24" : "flags/CRC_24.png",
       "32" : "flags/CRC_32.png",
       "48" : "flags/CRC_48.png",
-      "64" : "flags/CRC_64.png"
+      "64" : "flags/CRC_64.png",
+      "96" : "flags/CRC_96.png"
    },
    "CRO" : {
+      "128" : "flags/CRO_128.png",
       "16" : "flags/CRO_16.png",
       "24" : "flags/CRO_24.png",
       "32" : "flags/CRO_32.png",
       "48" : "flags/CRO_48.png",
-      "64" : "flags/CRO_64.png"
+      "64" : "flags/CRO_64.png",
+      "96" : "flags/CRO_96.png"
    },
    "CTA" : {
+      "128" : "flags/CTA_128.png",
       "16" : "flags/CTA_16.png",
       "24" : "flags/CTA_24.png",
       "32" : "flags/CTA_32.png",
       "48" : "flags/CTA_48.png",
-      "64" : "flags/CTA_64.png"
+      "64" : "flags/CTA_64.png",
+      "96" : "flags/CTA_96.png"
    },
    "CUB" : {
+      "128" : "flags/CUB_128.png",
       "16" : "flags/CUB_16.png",
       "24" : "flags/CUB_24.png",
       "32" : "flags/CUB_32.png",
       "48" : "flags/CUB_48.png",
-      "64" : "flags/CUB_64.png"
+      "64" : "flags/CUB_64.png",
+      "96" : "flags/CUB_96.png"
    },
    "CUW" : {
+      "128" : "flags/CUW_128.png",
       "16" : "flags/CUW_16.png",
       "24" : "flags/CUW_24.png",
       "32" : "flags/CUW_32.png",
       "48" : "flags/CUW_48.png",
-      "64" : "flags/CUW_64.png"
+      "64" : "flags/CUW_64.png",
+      "96" : "flags/CUW_96.png"
    },
    "CYP" : {
+      "128" : "flags/CYP_128.png",
       "16" : "flags/CYP_16.png",
       "24" : "flags/CYP_24.png",
       "32" : "flags/CYP_32.png",
       "48" : "flags/CYP_48.png",
-      "64" : "flags/CYP_64.png"
+      "64" : "flags/CYP_64.png",
+      "96" : "flags/CYP_96.png"
    },
    "CZE" : {
+      "128" : "flags/CZE_128.png",
       "16" : "flags/CZE_16.png",
       "24" : "flags/CZE_24.png",
       "32" : "flags/CZE_32.png",
       "48" : "flags/CZE_48.png",
-      "64" : "flags/CZE_64.png"
+      "64" : "flags/CZE_64.png",
+      "96" : "flags/CZE_96.png"
    },
    "DEN" : {
+      "128" : "flags/DEN_128.png",
       "16" : "flags/DEN_16.png",
       "24" : "flags/DEN_24.png",
       "32" : "flags/DEN_32.png",
       "48" : "flags/DEN_48.png",
-      "64" : "flags/DEN_64.png"
+      "64" : "flags/DEN_64.png",
+      "96" : "flags/DEN_96.png"
    },
    "DJI" : {
+      "128" : "flags/DJI_128.png",
       "16" : "flags/DJI_16.png",
       "24" : "flags/DJI_24.png",
       "32" : "flags/DJI_32.png",
       "48" : "flags/DJI_48.png",
-      "64" : "flags/DJI_64.png"
+      "64" : "flags/DJI_64.png",
+      "96" : "flags/DJI_96.png"
    },
    "DMA" : {
+      "128" : "flags/DMA_128.png",
       "16" : "flags/DMA_16.png",
       "24" : "flags/DMA_24.png",
       "32" : "flags/DMA_32.png",
       "48" : "flags/DMA_48.png",
-      "64" : "flags/DMA_64.png"
+      "64" : "flags/DMA_64.png",
+      "96" : "flags/DMA_96.png"
    },
    "DOM" : {
+      "128" : "flags/DOM_128.png",
       "16" : "flags/DOM_16.png",
       "24" : "flags/DOM_24.png",
       "32" : "flags/DOM_32.png",
       "48" : "flags/DOM_48.png",
-      "64" : "flags/DOM_64.png"
+      "64" : "flags/DOM_64.png",
+      "96" : "flags/DOM_96.png"
    },
    "ECU" : {
+      "128" : "flags/ECU_128.png",
       "16" : "flags/ECU_16.png",
       "24" : "flags/ECU_24.png",
       "32" : "flags/ECU_32.png",
       "48" : "flags/ECU_48.png",
-      "64" : "flags/ECU_64.png"
+      "64" : "flags/ECU_64.png",
+      "96" : "flags/ECU_96.png"
    },
    "EGY" : {
+      "128" : "flags/EGY_128.png",
       "16" : "flags/EGY_16.png",
       "24" : "flags/EGY_24.png",
       "32" : "flags/EGY_32.png",
       "48" : "flags/EGY_48.png",
-      "64" : "flags/EGY_64.png"
+      "64" : "flags/EGY_64.png",
+      "96" : "flags/EGY_96.png"
    },
    "ENG" : {
+      "128" : "flags/ENG_128.png",
       "16" : "flags/ENG_16.png",
       "24" : "flags/ENG_24.png",
       "32" : "flags/ENG_32.png",
       "48" : "flags/ENG_48.png",
-      "64" : "flags/ENG_64.png"
+      "64" : "flags/ENG_64.png",
+      "96" : "flags/ENG_96.png"
    },
    "EQG" : {
+      "128" : "flags/EQG_128.png",
       "16" : "flags/EQG_16.png",
       "24" : "flags/EQG_24.png",
       "32" : "flags/EQG_32.png",
       "48" : "flags/EQG_48.png",
-      "64" : "flags/EQG_64.png"
+      "64" : "flags/EQG_64.png",
+      "96" : "flags/EQG_96.png"
    },
    "ERI" : {
+      "128" : "flags/ERI_128.png",
       "16" : "flags/ERI_16.png",
       "24" : "flags/ERI_24.png",
       "32" : "flags/ERI_32.png",
       "48" : "flags/ERI_48.png",
-      "64" : "flags/ERI_64.png"
+      "64" : "flags/ERI_64.png",
+      "96" : "flags/ERI_96.png"
    },
    "ESP" : {
+      "128" : "flags/ESP_128.png",
       "16" : "flags/ESP_16.png",
       "24" : "flags/ESP_24.png",
       "32" : "flags/ESP_32.png",
       "48" : "flags/ESP_48.png",
-      "64" : "flags/ESP_64.png"
+      "64" : "flags/ESP_64.png",
+      "96" : "flags/ESP_96.png"
    },
    "EST" : {
+      "128" : "flags/EST_128.png",
       "16" : "flags/EST_16.png",
       "24" : "flags/EST_24.png",
       "32" : "flags/EST_32.png",
       "48" : "flags/EST_48.png",
-      "64" : "flags/EST_64.png"
+      "64" : "flags/EST_64.png",
+      "96" : "flags/EST_96.png"
    },
    "ETH" : {
+      "128" : "flags/ETH_128.png",
       "16" : "flags/ETH_16.png",
       "24" : "flags/ETH_24.png",
       "32" : "flags/ETH_32.png",
       "48" : "flags/ETH_48.png",
-      "64" : "flags/ETH_64.png"
+      "64" : "flags/ETH_64.png",
+      "96" : "flags/ETH_96.png"
    },
    "FIJ" : {
+      "128" : "flags/FIJ_128.png",
       "16" : "flags/FIJ_16.png",
       "24" : "flags/FIJ_24.png",
       "32" : "flags/FIJ_32.png",
       "48" : "flags/FIJ_48.png",
-      "64" : "flags/FIJ_64.png"
+      "64" : "flags/FIJ_64.png",
+      "96" : "flags/FIJ_96.png"
    },
    "FIN" : {
+      "128" : "flags/FIN_128.png",
       "16" : "flags/FIN_16.png",
       "24" : "flags/FIN_24.png",
       "32" : "flags/FIN_32.png",
       "48" : "flags/FIN_48.png",
-      "64" : "flags/FIN_64.png"
+      "64" : "flags/FIN_64.png",
+      "96" : "flags/FIN_96.png"
    },
    "FRA" : {
+      "128" : "flags/FRA_128.png",
       "16" : "flags/FRA_16.png",
       "24" : "flags/FRA_24.png",
       "32" : "flags/FRA_32.png",
       "48" : "flags/FRA_48.png",
-      "64" : "flags/FRA_64.png"
+      "64" : "flags/FRA_64.png",
+      "96" : "flags/FRA_96.png"
    },
    "FRO" : {
+      "128" : "flags/FRO_128.png",
       "16" : "flags/FRO_16.png",
       "24" : "flags/FRO_24.png",
       "32" : "flags/FRO_32.png",
       "48" : "flags/FRO_48.png",
-      "64" : "flags/FRO_64.png"
+      "64" : "flags/FRO_64.png",
+      "96" : "flags/FRO_96.png"
    },
    "GAB" : {
+      "128" : "flags/GAB_128.png",
       "16" : "flags/GAB_16.png",
       "24" : "flags/GAB_24.png",
       "32" : "flags/GAB_32.png",
       "48" : "flags/GAB_48.png",
-      "64" : "flags/GAB_64.png"
+      "64" : "flags/GAB_64.png",
+      "96" : "flags/GAB_96.png"
    },
    "GAM" : {
+      "128" : "flags/GAM_128.png",
       "16" : "flags/GAM_16.png",
       "24" : "flags/GAM_24.png",
       "32" : "flags/GAM_32.png",
       "48" : "flags/GAM_48.png",
-      "64" : "flags/GAM_64.png"
+      "64" : "flags/GAM_64.png",
+      "96" : "flags/GAM_96.png"
    },
    "GBR" : {
+      "128" : "flags/GBR_128.png",
       "16" : "flags/GBR_16.png",
       "24" : "flags/GBR_24.png",
       "32" : "flags/GBR_32.png",
       "48" : "flags/GBR_48.png",
-      "64" : "flags/GBR_64.png"
+      "64" : "flags/GBR_64.png",
+      "96" : "flags/GBR_96.png"
    },
    "GEO" : {
+      "128" : "flags/GEO_128.png",
       "16" : "flags/GEO_16.png",
       "24" : "flags/GEO_24.png",
       "32" : "flags/GEO_32.png",
       "48" : "flags/GEO_48.png",
-      "64" : "flags/GEO_64.png"
+      "64" : "flags/GEO_64.png",
+      "96" : "flags/GEO_96.png"
    },
    "GER" : {
+      "128" : "flags/GER_128.png",
       "16" : "flags/GER_16.png",
       "24" : "flags/GER_24.png",
       "32" : "flags/GER_32.png",
       "48" : "flags/GER_48.png",
-      "64" : "flags/GER_64.png"
+      "64" : "flags/GER_64.png",
+      "96" : "flags/GER_96.png"
    },
    "GHA" : {
+      "128" : "flags/GHA_128.png",
       "16" : "flags/GHA_16.png",
       "24" : "flags/GHA_24.png",
       "32" : "flags/GHA_32.png",
       "48" : "flags/GHA_48.png",
-      "64" : "flags/GHA_64.png"
+      "64" : "flags/GHA_64.png",
+      "96" : "flags/GHA_96.png"
    },
    "GIB" : {
+      "128" : "flags/GIB_128.png",
       "16" : "flags/GIB_16.png",
       "24" : "flags/GIB_24.png",
       "32" : "flags/GIB_32.png",
       "48" : "flags/GIB_48.png",
-      "64" : "flags/GIB_64.png"
+      "64" : "flags/GIB_64.png",
+      "96" : "flags/GIB_96.png"
    },
    "GNB" : {
+      "128" : "flags/GNB_128.png",
       "16" : "flags/GNB_16.png",
       "24" : "flags/GNB_24.png",
       "32" : "flags/GNB_32.png",
       "48" : "flags/GNB_48.png",
-      "64" : "flags/GNB_64.png"
+      "64" : "flags/GNB_64.png",
+      "96" : "flags/GNB_96.png"
    },
    "GPE" : {
+      "128" : "flags/GPE_128.png",
       "16" : "flags/GPE_16.png",
       "24" : "flags/GPE_24.png",
       "32" : "flags/GPE_32.png",
       "48" : "flags/GPE_48.png",
-      "64" : "flags/GPE_64.png"
+      "64" : "flags/GPE_64.png",
+      "96" : "flags/GPE_96.png"
    },
    "GRE" : {
+      "128" : "flags/GRE_128.png",
       "16" : "flags/GRE_16.png",
       "24" : "flags/GRE_24.png",
       "32" : "flags/GRE_32.png",
       "48" : "flags/GRE_48.png",
-      "64" : "flags/GRE_64.png"
+      "64" : "flags/GRE_64.png",
+      "96" : "flags/GRE_96.png"
    },
    "GRN" : {
+      "128" : "flags/GRN_128.png",
       "16" : "flags/GRN_16.png",
       "24" : "flags/GRN_24.png",
       "32" : "flags/GRN_32.png",
       "48" : "flags/GRN_48.png",
-      "64" : "flags/GRN_64.png"
+      "64" : "flags/GRN_64.png",
+      "96" : "flags/GRN_96.png"
    },
    "GUA" : {
+      "128" : "flags/GUA_128.png",
       "16" : "flags/GUA_16.png",
       "24" : "flags/GUA_24.png",
       "32" : "flags/GUA_32.png",
       "48" : "flags/GUA_48.png",
-      "64" : "flags/GUA_64.png"
+      "64" : "flags/GUA_64.png",
+      "96" : "flags/GUA_96.png"
    },
    "GUI" : {
+      "128" : "flags/GUI_128.png",
       "16" : "flags/GUI_16.png",
       "24" : "flags/GUI_24.png",
       "32" : "flags/GUI_32.png",
       "48" : "flags/GUI_48.png",
-      "64" : "flags/GUI_64.png"
+      "64" : "flags/GUI_64.png",
+      "96" : "flags/GUI_96.png"
    },
    "GUM" : {
+      "128" : "flags/GUM_128.png",
       "16" : "flags/GUM_16.png",
       "24" : "flags/GUM_24.png",
       "32" : "flags/GUM_32.png",
       "48" : "flags/GUM_48.png",
-      "64" : "flags/GUM_64.png"
+      "64" : "flags/GUM_64.png",
+      "96" : "flags/GUM_96.png"
    },
    "GUY" : {
+      "128" : "flags/GUY_128.png",
       "16" : "flags/GUY_16.png",
       "24" : "flags/GUY_24.png",
       "32" : "flags/GUY_32.png",
       "48" : "flags/GUY_48.png",
-      "64" : "flags/GUY_64.png"
+      "64" : "flags/GUY_64.png",
+      "96" : "flags/GUY_96.png"
    },
    "GYF" : {
+      "128" : "flags/GYF_128.png",
       "16" : "flags/GYF_16.png",
       "24" : "flags/GYF_24.png",
       "32" : "flags/GYF_32.png",
       "48" : "flags/GYF_48.png",
-      "64" : "flags/GYF_64.png"
+      "64" : "flags/GYF_64.png",
+      "96" : "flags/GYF_96.png"
    },
    "HAI" : {
+      "128" : "flags/HAI_128.png",
       "16" : "flags/HAI_16.png",
       "24" : "flags/HAI_24.png",
       "32" : "flags/HAI_32.png",
       "48" : "flags/HAI_48.png",
-      "64" : "flags/HAI_64.png"
+      "64" : "flags/HAI_64.png",
+      "96" : "flags/HAI_96.png"
    },
    "HKG" : {
+      "128" : "flags/HKG_128.png",
       "16" : "flags/HKG_16.png",
       "24" : "flags/HKG_24.png",
       "32" : "flags/HKG_32.png",
       "48" : "flags/HKG_48.png",
-      "64" : "flags/HKG_64.png"
+      "64" : "flags/HKG_64.png",
+      "96" : "flags/HKG_96.png"
    },
    "HON" : {
+      "128" : "flags/HON_128.png",
       "16" : "flags/HON_16.png",
       "24" : "flags/HON_24.png",
       "32" : "flags/HON_32.png",
       "48" : "flags/HON_48.png",
-      "64" : "flags/HON_64.png"
+      "64" : "flags/HON_64.png",
+      "96" : "flags/HON_96.png"
    },
    "HUN" : {
+      "128" : "flags/HUN_128.png",
       "16" : "flags/HUN_16.png",
       "24" : "flags/HUN_24.png",
       "32" : "flags/HUN_32.png",
       "48" : "flags/HUN_48.png",
-      "64" : "flags/HUN_64.png"
+      "64" : "flags/HUN_64.png",
+      "96" : "flags/HUN_96.png"
    },
    "IDN" : {
+      "128" : "flags/IDN_128.png",
       "16" : "flags/IDN_16.png",
       "24" : "flags/IDN_24.png",
       "32" : "flags/IDN_32.png",
       "48" : "flags/IDN_48.png",
-      "64" : "flags/IDN_64.png"
+      "64" : "flags/IDN_64.png",
+      "96" : "flags/IDN_96.png"
    },
    "IND" : {
+      "128" : "flags/IND_128.png",
       "16" : "flags/IND_16.png",
       "24" : "flags/IND_24.png",
       "32" : "flags/IND_32.png",
       "48" : "flags/IND_48.png",
-      "64" : "flags/IND_64.png"
+      "64" : "flags/IND_64.png",
+      "96" : "flags/IND_96.png"
    },
    "IRL" : {
+      "128" : "flags/IRL_128.png",
       "16" : "flags/IRL_16.png",
       "24" : "flags/IRL_24.png",
       "32" : "flags/IRL_32.png",
       "48" : "flags/IRL_48.png",
-      "64" : "flags/IRL_64.png"
+      "64" : "flags/IRL_64.png",
+      "96" : "flags/IRL_96.png"
    },
    "IRN" : {
+      "128" : "flags/IRN_128.png",
       "16" : "flags/IRN_16.png",
       "24" : "flags/IRN_24.png",
       "32" : "flags/IRN_32.png",
       "48" : "flags/IRN_48.png",
-      "64" : "flags/IRN_64.png"
+      "64" : "flags/IRN_64.png",
+      "96" : "flags/IRN_96.png"
    },
    "IRQ" : {
+      "128" : "flags/IRQ_128.png",
       "16" : "flags/IRQ_16.png",
       "24" : "flags/IRQ_24.png",
       "32" : "flags/IRQ_32.png",
       "48" : "flags/IRQ_48.png",
-      "64" : "flags/IRQ_64.png"
+      "64" : "flags/IRQ_64.png",
+      "96" : "flags/IRQ_96.png"
    },
    "ISL" : {
+      "128" : "flags/ISL_128.png",
       "16" : "flags/ISL_16.png",
       "24" : "flags/ISL_24.png",
       "32" : "flags/ISL_32.png",
       "48" : "flags/ISL_48.png",
-      "64" : "flags/ISL_64.png"
+      "64" : "flags/ISL_64.png",
+      "96" : "flags/ISL_96.png"
    },
    "ISR" : {
+      "128" : "flags/ISR_128.png",
       "16" : "flags/ISR_16.png",
       "24" : "flags/ISR_24.png",
       "32" : "flags/ISR_32.png",
       "48" : "flags/ISR_48.png",
-      "64" : "flags/ISR_64.png"
+      "64" : "flags/ISR_64.png",
+      "96" : "flags/ISR_96.png"
    },
    "ITA" : {
+      "128" : "flags/ITA_128.png",
       "16" : "flags/ITA_16.png",
       "24" : "flags/ITA_24.png",
       "32" : "flags/ITA_32.png",
       "48" : "flags/ITA_48.png",
-      "64" : "flags/ITA_64.png"
+      "64" : "flags/ITA_64.png",
+      "96" : "flags/ITA_96.png"
    },
    "JAM" : {
+      "128" : "flags/JAM_128.png",
       "16" : "flags/JAM_16.png",
       "24" : "flags/JAM_24.png",
       "32" : "flags/JAM_32.png",
       "48" : "flags/JAM_48.png",
-      "64" : "flags/JAM_64.png"
+      "64" : "flags/JAM_64.png",
+      "96" : "flags/JAM_96.png"
    },
    "JOR" : {
+      "128" : "flags/JOR_128.png",
       "16" : "flags/JOR_16.png",
       "24" : "flags/JOR_24.png",
       "32" : "flags/JOR_32.png",
       "48" : "flags/JOR_48.png",
-      "64" : "flags/JOR_64.png"
+      "64" : "flags/JOR_64.png",
+      "96" : "flags/JOR_96.png"
    },
    "JPN" : {
+      "128" : "flags/JPN_128.png",
       "16" : "flags/JPN_16.png",
       "24" : "flags/JPN_24.png",
       "32" : "flags/JPN_32.png",
       "48" : "flags/JPN_48.png",
-      "64" : "flags/JPN_64.png"
+      "64" : "flags/JPN_64.png",
+      "96" : "flags/JPN_96.png"
    },
    "KAZ" : {
+      "128" : "flags/KAZ_128.png",
       "16" : "flags/KAZ_16.png",
       "24" : "flags/KAZ_24.png",
       "32" : "flags/KAZ_32.png",
       "48" : "flags/KAZ_48.png",
-      "64" : "flags/KAZ_64.png"
+      "64" : "flags/KAZ_64.png",
+      "96" : "flags/KAZ_96.png"
    },
    "KEN" : {
+      "128" : "flags/KEN_128.png",
       "16" : "flags/KEN_16.png",
       "24" : "flags/KEN_24.png",
       "32" : "flags/KEN_32.png",
       "48" : "flags/KEN_48.png",
-      "64" : "flags/KEN_64.png"
+      "64" : "flags/KEN_64.png",
+      "96" : "flags/KEN_96.png"
    },
    "KGZ" : {
+      "128" : "flags/KGZ_128.png",
       "16" : "flags/KGZ_16.png",
       "24" : "flags/KGZ_24.png",
       "32" : "flags/KGZ_32.png",
       "48" : "flags/KGZ_48.png",
-      "64" : "flags/KGZ_64.png"
+      "64" : "flags/KGZ_64.png",
+      "96" : "flags/KGZ_96.png"
    },
    "KOR" : {
+      "128" : "flags/KOR_128.png",
       "16" : "flags/KOR_16.png",
       "24" : "flags/KOR_24.png",
       "32" : "flags/KOR_32.png",
       "48" : "flags/KOR_48.png",
-      "64" : "flags/KOR_64.png"
+      "64" : "flags/KOR_64.png",
+      "96" : "flags/KOR_96.png"
    },
    "KOS" : {
+      "128" : "flags/KOS_128.png",
       "16" : "flags/KOS_16.png",
       "24" : "flags/KOS_24.png",
       "32" : "flags/KOS_32.png",
       "48" : "flags/KOS_48.png",
-      "64" : "flags/KOS_64.png"
+      "64" : "flags/KOS_64.png",
+      "96" : "flags/KOS_96.png"
    },
    "KSA" : {
+      "128" : "flags/KSA_128.png",
       "16" : "flags/KSA_16.png",
       "24" : "flags/KSA_24.png",
       "32" : "flags/KSA_32.png",
       "48" : "flags/KSA_48.png",
-      "64" : "flags/KSA_64.png"
+      "64" : "flags/KSA_64.png",
+      "96" : "flags/KSA_96.png"
    },
    "KUW" : {
+      "128" : "flags/KUW_128.png",
       "16" : "flags/KUW_16.png",
       "24" : "flags/KUW_24.png",
       "32" : "flags/KUW_32.png",
       "48" : "flags/KUW_48.png",
-      "64" : "flags/KUW_64.png"
+      "64" : "flags/KUW_64.png",
+      "96" : "flags/KUW_96.png"
    },
    "LAO" : {
+      "128" : "flags/LAO_128.png",
       "16" : "flags/LAO_16.png",
       "24" : "flags/LAO_24.png",
       "32" : "flags/LAO_32.png",
       "48" : "flags/LAO_48.png",
-      "64" : "flags/LAO_64.png"
+      "64" : "flags/LAO_64.png",
+      "96" : "flags/LAO_96.png"
    },
    "LBR" : {
+      "128" : "flags/LBR_128.png",
       "16" : "flags/LBR_16.png",
       "24" : "flags/LBR_24.png",
       "32" : "flags/LBR_32.png",
       "48" : "flags/LBR_48.png",
-      "64" : "flags/LBR_64.png"
+      "64" : "flags/LBR_64.png",
+      "96" : "flags/LBR_96.png"
    },
    "LBY" : {
+      "128" : "flags/LBY_128.png",
       "16" : "flags/LBY_16.png",
       "24" : "flags/LBY_24.png",
       "32" : "flags/LBY_32.png",
       "48" : "flags/LBY_48.png",
-      "64" : "flags/LBY_64.png"
+      "64" : "flags/LBY_64.png",
+      "96" : "flags/LBY_96.png"
    },
    "LCA" : {
+      "128" : "flags/LCA_128.png",
       "16" : "flags/LCA_16.png",
       "24" : "flags/LCA_24.png",
       "32" : "flags/LCA_32.png",
       "48" : "flags/LCA_48.png",
-      "64" : "flags/LCA_64.png"
+      "64" : "flags/LCA_64.png",
+      "96" : "flags/LCA_96.png"
    },
    "LES" : {
+      "128" : "flags/LES_128.png",
       "16" : "flags/LES_16.png",
       "24" : "flags/LES_24.png",
       "32" : "flags/LES_32.png",
       "48" : "flags/LES_48.png",
-      "64" : "flags/LES_64.png"
+      "64" : "flags/LES_64.png",
+      "96" : "flags/LES_96.png"
    },
    "LIB" : {
+      "128" : "flags/LIB_128.png",
       "16" : "flags/LIB_16.png",
       "24" : "flags/LIB_24.png",
       "32" : "flags/LIB_32.png",
       "48" : "flags/LIB_48.png",
-      "64" : "flags/LIB_64.png"
+      "64" : "flags/LIB_64.png",
+      "96" : "flags/LIB_96.png"
    },
    "LIE" : {
+      "128" : "flags/LIE_128.png",
       "16" : "flags/LIE_16.png",
       "24" : "flags/LIE_24.png",
       "32" : "flags/LIE_32.png",
       "48" : "flags/LIE_48.png",
-      "64" : "flags/LIE_64.png"
+      "64" : "flags/LIE_64.png",
+      "96" : "flags/LIE_96.png"
    },
    "LTU" : {
+      "128" : "flags/LTU_128.png",
       "16" : "flags/LTU_16.png",
       "24" : "flags/LTU_24.png",
       "32" : "flags/LTU_32.png",
       "48" : "flags/LTU_48.png",
-      "64" : "flags/LTU_64.png"
+      "64" : "flags/LTU_64.png",
+      "96" : "flags/LTU_96.png"
    },
    "LUX" : {
+      "128" : "flags/LUX_128.png",
       "16" : "flags/LUX_16.png",
       "24" : "flags/LUX_24.png",
       "32" : "flags/LUX_32.png",
       "48" : "flags/LUX_48.png",
-      "64" : "flags/LUX_64.png"
+      "64" : "flags/LUX_64.png",
+      "96" : "flags/LUX_96.png"
    },
    "LVA" : {
+      "128" : "flags/LVA_128.png",
       "16" : "flags/LVA_16.png",
       "24" : "flags/LVA_24.png",
       "32" : "flags/LVA_32.png",
       "48" : "flags/LVA_48.png",
-      "64" : "flags/LVA_64.png"
+      "64" : "flags/LVA_64.png",
+      "96" : "flags/LVA_96.png"
    },
    "MAC" : {
+      "128" : "flags/MAC_128.png",
       "16" : "flags/MAC_16.png",
       "24" : "flags/MAC_24.png",
       "32" : "flags/MAC_32.png",
       "48" : "flags/MAC_48.png",
-      "64" : "flags/MAC_64.png"
+      "64" : "flags/MAC_64.png",
+      "96" : "flags/MAC_96.png"
    },
    "MAD" : {
+      "128" : "flags/MAD_128.png",
       "16" : "flags/MAD_16.png",
       "24" : "flags/MAD_24.png",
       "32" : "flags/MAD_32.png",
       "48" : "flags/MAD_48.png",
-      "64" : "flags/MAD_64.png"
+      "64" : "flags/MAD_64.png",
+      "96" : "flags/MAD_96.png"
    },
    "MAR" : {
+      "128" : "flags/MAR_128.png",
       "16" : "flags/MAR_16.png",
       "24" : "flags/MAR_24.png",
       "32" : "flags/MAR_32.png",
       "48" : "flags/MAR_48.png",
-      "64" : "flags/MAR_64.png"
+      "64" : "flags/MAR_64.png",
+      "96" : "flags/MAR_96.png"
    },
    "MAS" : {
+      "128" : "flags/MAS_128.png",
       "16" : "flags/MAS_16.png",
       "24" : "flags/MAS_24.png",
       "32" : "flags/MAS_32.png",
       "48" : "flags/MAS_48.png",
-      "64" : "flags/MAS_64.png"
+      "64" : "flags/MAS_64.png",
+      "96" : "flags/MAS_96.png"
    },
    "MDA" : {
+      "128" : "flags/MDA_128.png",
       "16" : "flags/MDA_16.png",
       "24" : "flags/MDA_24.png",
       "32" : "flags/MDA_32.png",
       "48" : "flags/MDA_48.png",
-      "64" : "flags/MDA_64.png"
+      "64" : "flags/MDA_64.png",
+      "96" : "flags/MDA_96.png"
    },
    "MDV" : {
+      "128" : "flags/MDV_128.png",
       "16" : "flags/MDV_16.png",
       "24" : "flags/MDV_24.png",
       "32" : "flags/MDV_32.png",
       "48" : "flags/MDV_48.png",
-      "64" : "flags/MDV_64.png"
+      "64" : "flags/MDV_64.png",
+      "96" : "flags/MDV_96.png"
    },
    "MEX" : {
+      "128" : "flags/MEX_128.png",
       "16" : "flags/MEX_16.png",
       "24" : "flags/MEX_24.png",
       "32" : "flags/MEX_32.png",
       "48" : "flags/MEX_48.png",
-      "64" : "flags/MEX_64.png"
+      "64" : "flags/MEX_64.png",
+      "96" : "flags/MEX_96.png"
    },
    "MKD" : {
+      "128" : "flags/MKD_128.png",
       "16" : "flags/MKD_16.png",
       "24" : "flags/MKD_24.png",
       "32" : "flags/MKD_32.png",
       "48" : "flags/MKD_48.png",
-      "64" : "flags/MKD_64.png"
+      "64" : "flags/MKD_64.png",
+      "96" : "flags/MKD_96.png"
    },
    "MLI" : {
+      "128" : "flags/MLI_128.png",
       "16" : "flags/MLI_16.png",
       "24" : "flags/MLI_24.png",
       "32" : "flags/MLI_32.png",
       "48" : "flags/MLI_48.png",
-      "64" : "flags/MLI_64.png"
+      "64" : "flags/MLI_64.png",
+      "96" : "flags/MLI_96.png"
    },
    "MLT" : {
+      "128" : "flags/MLT_128.png",
       "16" : "flags/MLT_16.png",
       "24" : "flags/MLT_24.png",
       "32" : "flags/MLT_32.png",
       "48" : "flags/MLT_48.png",
-      "64" : "flags/MLT_64.png"
+      "64" : "flags/MLT_64.png",
+      "96" : "flags/MLT_96.png"
    },
    "MNE" : {
+      "128" : "flags/MNE_128.png",
       "16" : "flags/MNE_16.png",
       "24" : "flags/MNE_24.png",
       "32" : "flags/MNE_32.png",
       "48" : "flags/MNE_48.png",
-      "64" : "flags/MNE_64.png"
+      "64" : "flags/MNE_64.png",
+      "96" : "flags/MNE_96.png"
    },
    "MNG" : {
+      "128" : "flags/MNG_128.png",
       "16" : "flags/MNG_16.png",
       "24" : "flags/MNG_24.png",
       "32" : "flags/MNG_32.png",
       "48" : "flags/MNG_48.png",
-      "64" : "flags/MNG_64.png"
+      "64" : "flags/MNG_64.png",
+      "96" : "flags/MNG_96.png"
    },
    "MOZ" : {
+      "128" : "flags/MOZ_128.png",
       "16" : "flags/MOZ_16.png",
       "24" : "flags/MOZ_24.png",
       "32" : "flags/MOZ_32.png",
       "48" : "flags/MOZ_48.png",
-      "64" : "flags/MOZ_64.png"
+      "64" : "flags/MOZ_64.png",
+      "96" : "flags/MOZ_96.png"
    },
    "MRI" : {
+      "128" : "flags/MRI_128.png",
       "16" : "flags/MRI_16.png",
       "24" : "flags/MRI_24.png",
       "32" : "flags/MRI_32.png",
       "48" : "flags/MRI_48.png",
-      "64" : "flags/MRI_64.png"
+      "64" : "flags/MRI_64.png",
+      "96" : "flags/MRI_96.png"
    },
    "MSR" : {
+      "128" : "flags/MSR_128.png",
       "16" : "flags/MSR_16.png",
       "24" : "flags/MSR_24.png",
       "32" : "flags/MSR_32.png",
       "48" : "flags/MSR_48.png",
-      "64" : "flags/MSR_64.png"
+      "64" : "flags/MSR_64.png",
+      "96" : "flags/MSR_96.png"
    },
    "MTN" : {
+      "128" : "flags/MTN_128.png",
       "16" : "flags/MTN_16.png",
       "24" : "flags/MTN_24.png",
       "32" : "flags/MTN_32.png",
       "48" : "flags/MTN_48.png",
-      "64" : "flags/MTN_64.png"
+      "64" : "flags/MTN_64.png",
+      "96" : "flags/MTN_96.png"
    },
    "MTQ" : {
+      "128" : "flags/MTQ_128.png",
       "16" : "flags/MTQ_16.png",
       "24" : "flags/MTQ_24.png",
       "32" : "flags/MTQ_32.png",
       "48" : "flags/MTQ_48.png",
-      "64" : "flags/MTQ_64.png"
+      "64" : "flags/MTQ_64.png",
+      "96" : "flags/MTQ_96.png"
    },
    "MWI" : {
+      "128" : "flags/MWI_128.png",
       "16" : "flags/MWI_16.png",
       "24" : "flags/MWI_24.png",
       "32" : "flags/MWI_32.png",
       "48" : "flags/MWI_48.png",
-      "64" : "flags/MWI_64.png"
+      "64" : "flags/MWI_64.png",
+      "96" : "flags/MWI_96.png"
    },
    "MYA" : {
+      "128" : "flags/MYA_128.png",
       "16" : "flags/MYA_16.png",
       "24" : "flags/MYA_24.png",
       "32" : "flags/MYA_32.png",
       "48" : "flags/MYA_48.png",
-      "64" : "flags/MYA_64.png"
+      "64" : "flags/MYA_64.png",
+      "96" : "flags/MYA_96.png"
    },
    "NAM" : {
+      "128" : "flags/NAM_128.png",
       "16" : "flags/NAM_16.png",
       "24" : "flags/NAM_24.png",
       "32" : "flags/NAM_32.png",
       "48" : "flags/NAM_48.png",
-      "64" : "flags/NAM_64.png"
+      "64" : "flags/NAM_64.png",
+      "96" : "flags/NAM_96.png"
    },
    "NCA" : {
+      "128" : "flags/NCA_128.png",
       "16" : "flags/NCA_16.png",
       "24" : "flags/NCA_24.png",
       "32" : "flags/NCA_32.png",
       "48" : "flags/NCA_48.png",
-      "64" : "flags/NCA_64.png"
+      "64" : "flags/NCA_64.png",
+      "96" : "flags/NCA_96.png"
    },
    "NCL" : {
+      "128" : "flags/NCL_128.png",
       "16" : "flags/NCL_16.png",
       "24" : "flags/NCL_24.png",
       "32" : "flags/NCL_32.png",
       "48" : "flags/NCL_48.png",
-      "64" : "flags/NCL_64.png"
+      "64" : "flags/NCL_64.png",
+      "96" : "flags/NCL_96.png"
    },
    "NED" : {
+      "128" : "flags/NED_128.png",
       "16" : "flags/NED_16.png",
       "24" : "flags/NED_24.png",
       "32" : "flags/NED_32.png",
       "48" : "flags/NED_48.png",
-      "64" : "flags/NED_64.png"
+      "64" : "flags/NED_64.png",
+      "96" : "flags/NED_96.png"
    },
    "NEP" : {
+      "128" : "flags/NEP_128.png",
       "16" : "flags/NEP_16.png",
       "24" : "flags/NEP_24.png",
       "32" : "flags/NEP_32.png",
       "48" : "flags/NEP_48.png",
-      "64" : "flags/NEP_64.png"
+      "64" : "flags/NEP_64.png",
+      "96" : "flags/NEP_96.png"
    },
    "NGA" : {
+      "128" : "flags/NGA_128.png",
       "16" : "flags/NGA_16.png",
       "24" : "flags/NGA_24.png",
       "32" : "flags/NGA_32.png",
       "48" : "flags/NGA_48.png",
-      "64" : "flags/NGA_64.png"
+      "64" : "flags/NGA_64.png",
+      "96" : "flags/NGA_96.png"
    },
    "NIG" : {
+      "128" : "flags/NIG_128.png",
       "16" : "flags/NIG_16.png",
       "24" : "flags/NIG_24.png",
       "32" : "flags/NIG_32.png",
       "48" : "flags/NIG_48.png",
-      "64" : "flags/NIG_64.png"
+      "64" : "flags/NIG_64.png",
+      "96" : "flags/NIG_96.png"
    },
    "NIR" : {
+      "128" : "flags/NIR_128.png",
       "16" : "flags/NIR_16.png",
       "24" : "flags/NIR_24.png",
       "32" : "flags/NIR_32.png",
       "48" : "flags/NIR_48.png",
-      "64" : "flags/NIR_64.png"
+      "64" : "flags/NIR_64.png",
+      "96" : "flags/NIR_96.png"
    },
    "NOR" : {
+      "128" : "flags/NOR_128.png",
       "16" : "flags/NOR_16.png",
       "24" : "flags/NOR_24.png",
       "32" : "flags/NOR_32.png",
       "48" : "flags/NOR_48.png",
-      "64" : "flags/NOR_64.png"
+      "64" : "flags/NOR_64.png",
+      "96" : "flags/NOR_96.png"
    },
    "NZL" : {
+      "128" : "flags/NZL_128.png",
       "16" : "flags/NZL_16.png",
       "24" : "flags/NZL_24.png",
       "32" : "flags/NZL_32.png",
       "48" : "flags/NZL_48.png",
-      "64" : "flags/NZL_64.png"
+      "64" : "flags/NZL_64.png",
+      "96" : "flags/NZL_96.png"
    },
    "OMA" : {
+      "128" : "flags/OMA_128.png",
       "16" : "flags/OMA_16.png",
       "24" : "flags/OMA_24.png",
       "32" : "flags/OMA_32.png",
       "48" : "flags/OMA_48.png",
-      "64" : "flags/OMA_64.png"
+      "64" : "flags/OMA_64.png",
+      "96" : "flags/OMA_96.png"
    },
    "PAK" : {
+      "128" : "flags/PAK_128.png",
       "16" : "flags/PAK_16.png",
       "24" : "flags/PAK_24.png",
       "32" : "flags/PAK_32.png",
       "48" : "flags/PAK_48.png",
-      "64" : "flags/PAK_64.png"
+      "64" : "flags/PAK_64.png",
+      "96" : "flags/PAK_96.png"
    },
    "PAN" : {
+      "128" : "flags/PAN_128.png",
       "16" : "flags/PAN_16.png",
       "24" : "flags/PAN_24.png",
       "32" : "flags/PAN_32.png",
       "48" : "flags/PAN_48.png",
-      "64" : "flags/PAN_64.png"
+      "64" : "flags/PAN_64.png",
+      "96" : "flags/PAN_96.png"
    },
    "PAR" : {
+      "128" : "flags/PAR_128.png",
       "16" : "flags/PAR_16.png",
       "24" : "flags/PAR_24.png",
       "32" : "flags/PAR_32.png",
       "48" : "flags/PAR_48.png",
-      "64" : "flags/PAR_64.png"
+      "64" : "flags/PAR_64.png",
+      "96" : "flags/PAR_96.png"
    },
    "PER" : {
+      "128" : "flags/PER_128.png",
       "16" : "flags/PER_16.png",
       "24" : "flags/PER_24.png",
       "32" : "flags/PER_32.png",
       "48" : "flags/PER_48.png",
-      "64" : "flags/PER_64.png"
+      "64" : "flags/PER_64.png",
+      "96" : "flags/PER_96.png"
    },
    "PHI" : {
+      "128" : "flags/PHI_128.png",
       "16" : "flags/PHI_16.png",
       "24" : "flags/PHI_24.png",
       "32" : "flags/PHI_32.png",
       "48" : "flags/PHI_48.png",
-      "64" : "flags/PHI_64.png"
+      "64" : "flags/PHI_64.png",
+      "96" : "flags/PHI_96.png"
    },
    "PLE" : {
+      "128" : "flags/PLE_128.png",
       "16" : "flags/PLE_16.png",
       "24" : "flags/PLE_24.png",
       "32" : "flags/PLE_32.png",
       "48" : "flags/PLE_48.png",
-      "64" : "flags/PLE_64.png"
+      "64" : "flags/PLE_64.png",
+      "96" : "flags/PLE_96.png"
    },
    "PNG" : {
+      "128" : "flags/PNG_128.png",
       "16" : "flags/PNG_16.png",
       "24" : "flags/PNG_24.png",
       "32" : "flags/PNG_32.png",
       "48" : "flags/PNG_48.png",
-      "64" : "flags/PNG_64.png"
+      "64" : "flags/PNG_64.png",
+      "96" : "flags/PNG_96.png"
    },
    "POL" : {
+      "128" : "flags/POL_128.png",
       "16" : "flags/POL_16.png",
       "24" : "flags/POL_24.png",
       "32" : "flags/POL_32.png",
       "48" : "flags/POL_48.png",
-      "64" : "flags/POL_64.png"
+      "64" : "flags/POL_64.png",
+      "96" : "flags/POL_96.png"
    },
    "POR" : {
+      "128" : "flags/POR_128.png",
       "16" : "flags/POR_16.png",
       "24" : "flags/POR_24.png",
       "32" : "flags/POR_32.png",
       "48" : "flags/POR_48.png",
-      "64" : "flags/POR_64.png"
+      "64" : "flags/POR_64.png",
+      "96" : "flags/POR_96.png"
    },
    "PRK" : {
+      "128" : "flags/PRK_128.png",
       "16" : "flags/PRK_16.png",
       "24" : "flags/PRK_24.png",
       "32" : "flags/PRK_32.png",
       "48" : "flags/PRK_48.png",
-      "64" : "flags/PRK_64.png"
+      "64" : "flags/PRK_64.png",
+      "96" : "flags/PRK_96.png"
    },
    "PUR" : {
+      "128" : "flags/PUR_128.png",
       "16" : "flags/PUR_16.png",
       "24" : "flags/PUR_24.png",
       "32" : "flags/PUR_32.png",
       "48" : "flags/PUR_48.png",
-      "64" : "flags/PUR_64.png"
+      "64" : "flags/PUR_64.png",
+      "96" : "flags/PUR_96.png"
    },
    "QAT" : {
+      "128" : "flags/QAT_128.png",
       "16" : "flags/QAT_16.png",
       "24" : "flags/QAT_24.png",
       "32" : "flags/QAT_32.png",
       "48" : "flags/QAT_48.png",
-      "64" : "flags/QAT_64.png"
+      "64" : "flags/QAT_64.png",
+      "96" : "flags/QAT_96.png"
    },
    "REU" : {
+      "128" : "flags/REU_128.png",
       "16" : "flags/REU_16.png",
       "24" : "flags/REU_24.png",
       "32" : "flags/REU_32.png",
       "48" : "flags/REU_48.png",
-      "64" : "flags/REU_64.png"
+      "64" : "flags/REU_64.png",
+      "96" : "flags/REU_96.png"
    },
    "ROU" : {
+      "128" : "flags/ROU_128.png",
       "16" : "flags/ROU_16.png",
       "24" : "flags/ROU_24.png",
       "32" : "flags/ROU_32.png",
       "48" : "flags/ROU_48.png",
-      "64" : "flags/ROU_64.png"
+      "64" : "flags/ROU_64.png",
+      "96" : "flags/ROU_96.png"
    },
    "RSA" : {
+      "128" : "flags/RSA_128.png",
       "16" : "flags/RSA_16.png",
       "24" : "flags/RSA_24.png",
       "32" : "flags/RSA_32.png",
       "48" : "flags/RSA_48.png",
-      "64" : "flags/RSA_64.png"
+      "64" : "flags/RSA_64.png",
+      "96" : "flags/RSA_96.png"
    },
    "RUS" : {
+      "128" : "flags/RUS_128.png",
       "16" : "flags/RUS_16.png",
       "24" : "flags/RUS_24.png",
       "32" : "flags/RUS_32.png",
       "48" : "flags/RUS_48.png",
-      "64" : "flags/RUS_64.png"
+      "64" : "flags/RUS_64.png",
+      "96" : "flags/RUS_96.png"
    },
    "RWA" : {
+      "128" : "flags/RWA_128.png",
       "16" : "flags/RWA_16.png",
       "24" : "flags/RWA_24.png",
       "32" : "flags/RWA_32.png",
       "48" : "flags/RWA_48.png",
-      "64" : "flags/RWA_64.png"
+      "64" : "flags/RWA_64.png",
+      "96" : "flags/RWA_96.png"
    },
    "SAM" : {
+      "128" : "flags/SAM_128.png",
       "16" : "flags/SAM_16.png",
       "24" : "flags/SAM_24.png",
       "32" : "flags/SAM_32.png",
       "48" : "flags/SAM_48.png",
-      "64" : "flags/SAM_64.png"
+      "64" : "flags/SAM_64.png",
+      "96" : "flags/SAM_96.png"
    },
    "SCO" : {
+      "128" : "flags/SCO_128.png",
       "16" : "flags/SCO_16.png",
       "24" : "flags/SCO_24.png",
       "32" : "flags/SCO_32.png",
       "48" : "flags/SCO_48.png",
-      "64" : "flags/SCO_64.png"
+      "64" : "flags/SCO_64.png",
+      "96" : "flags/SCO_96.png"
    },
    "SDN" : {
+      "128" : "flags/SDN_128.png",
       "16" : "flags/SDN_16.png",
       "24" : "flags/SDN_24.png",
       "32" : "flags/SDN_32.png",
       "48" : "flags/SDN_48.png",
-      "64" : "flags/SDN_64.png"
+      "64" : "flags/SDN_64.png",
+      "96" : "flags/SDN_96.png"
    },
    "SEN" : {
+      "128" : "flags/SEN_128.png",
       "16" : "flags/SEN_16.png",
       "24" : "flags/SEN_24.png",
       "32" : "flags/SEN_32.png",
       "48" : "flags/SEN_48.png",
-      "64" : "flags/SEN_64.png"
+      "64" : "flags/SEN_64.png",
+      "96" : "flags/SEN_96.png"
    },
    "SEY" : {
+      "128" : "flags/SEY_128.png",
       "16" : "flags/SEY_16.png",
       "24" : "flags/SEY_24.png",
       "32" : "flags/SEY_32.png",
       "48" : "flags/SEY_48.png",
-      "64" : "flags/SEY_64.png"
+      "64" : "flags/SEY_64.png",
+      "96" : "flags/SEY_96.png"
    },
    "SIN" : {
+      "128" : "flags/SIN_128.png",
       "16" : "flags/SIN_16.png",
       "24" : "flags/SIN_24.png",
       "32" : "flags/SIN_32.png",
       "48" : "flags/SIN_48.png",
-      "64" : "flags/SIN_64.png"
+      "64" : "flags/SIN_64.png",
+      "96" : "flags/SIN_96.png"
    },
    "SKN" : {
+      "128" : "flags/SKN_128.png",
       "16" : "flags/SKN_16.png",
       "24" : "flags/SKN_24.png",
       "32" : "flags/SKN_32.png",
       "48" : "flags/SKN_48.png",
-      "64" : "flags/SKN_64.png"
+      "64" : "flags/SKN_64.png",
+      "96" : "flags/SKN_96.png"
    },
    "SLE" : {
+      "128" : "flags/SLE_128.png",
       "16" : "flags/SLE_16.png",
       "24" : "flags/SLE_24.png",
       "32" : "flags/SLE_32.png",
       "48" : "flags/SLE_48.png",
-      "64" : "flags/SLE_64.png"
+      "64" : "flags/SLE_64.png",
+      "96" : "flags/SLE_96.png"
    },
    "SLV" : {
+      "128" : "flags/SLV_128.png",
       "16" : "flags/SLV_16.png",
       "24" : "flags/SLV_24.png",
       "32" : "flags/SLV_32.png",
       "48" : "flags/SLV_48.png",
-      "64" : "flags/SLV_64.png"
+      "64" : "flags/SLV_64.png",
+      "96" : "flags/SLV_96.png"
    },
    "SMR" : {
+      "128" : "flags/SMR_128.png",
       "16" : "flags/SMR_16.png",
       "24" : "flags/SMR_24.png",
       "32" : "flags/SMR_32.png",
       "48" : "flags/SMR_48.png",
-      "64" : "flags/SMR_64.png"
+      "64" : "flags/SMR_64.png",
+      "96" : "flags/SMR_96.png"
    },
    "SOL" : {
+      "128" : "flags/SOL_128.png",
       "16" : "flags/SOL_16.png",
       "24" : "flags/SOL_24.png",
       "32" : "flags/SOL_32.png",
       "48" : "flags/SOL_48.png",
-      "64" : "flags/SOL_64.png"
+      "64" : "flags/SOL_64.png",
+      "96" : "flags/SOL_96.png"
    },
    "SOM" : {
+      "128" : "flags/SOM_128.png",
       "16" : "flags/SOM_16.png",
       "24" : "flags/SOM_24.png",
       "32" : "flags/SOM_32.png",
       "48" : "flags/SOM_48.png",
-      "64" : "flags/SOM_64.png"
+      "64" : "flags/SOM_64.png",
+      "96" : "flags/SOM_96.png"
    },
    "SRB" : {
+      "128" : "flags/SRB_128.png",
       "16" : "flags/SRB_16.png",
       "24" : "flags/SRB_24.png",
       "32" : "flags/SRB_32.png",
       "48" : "flags/SRB_48.png",
-      "64" : "flags/SRB_64.png"
+      "64" : "flags/SRB_64.png",
+      "96" : "flags/SRB_96.png"
    },
    "SRI" : {
+      "128" : "flags/SRI_128.png",
       "16" : "flags/SRI_16.png",
       "24" : "flags/SRI_24.png",
       "32" : "flags/SRI_32.png",
       "48" : "flags/SRI_48.png",
-      "64" : "flags/SRI_64.png"
+      "64" : "flags/SRI_64.png",
+      "96" : "flags/SRI_96.png"
    },
    "SSD" : {
+      "128" : "flags/SSD_128.png",
       "16" : "flags/SSD_16.png",
       "24" : "flags/SSD_24.png",
       "32" : "flags/SSD_32.png",
       "48" : "flags/SSD_48.png",
-      "64" : "flags/SSD_64.png"
+      "64" : "flags/SSD_64.png",
+      "96" : "flags/SSD_96.png"
    },
    "STP" : {
+      "128" : "flags/STP_128.png",
       "16" : "flags/STP_16.png",
       "24" : "flags/STP_24.png",
       "32" : "flags/STP_32.png",
       "48" : "flags/STP_48.png",
-      "64" : "flags/STP_64.png"
+      "64" : "flags/STP_64.png",
+      "96" : "flags/STP_96.png"
    },
    "SUI" : {
+      "128" : "flags/SUI_128.png",
       "16" : "flags/SUI_16.png",
       "24" : "flags/SUI_24.png",
       "32" : "flags/SUI_32.png",
       "48" : "flags/SUI_48.png",
-      "64" : "flags/SUI_64.png"
+      "64" : "flags/SUI_64.png",
+      "96" : "flags/SUI_96.png"
    },
    "SUR" : {
+      "128" : "flags/SUR_128.png",
       "16" : "flags/SUR_16.png",
       "24" : "flags/SUR_24.png",
       "32" : "flags/SUR_32.png",
       "48" : "flags/SUR_48.png",
-      "64" : "flags/SUR_64.png"
+      "64" : "flags/SUR_64.png",
+      "96" : "flags/SUR_96.png"
    },
    "SVK" : {
+      "128" : "flags/SVK_128.png",
       "16" : "flags/SVK_16.png",
       "24" : "flags/SVK_24.png",
       "32" : "flags/SVK_32.png",
       "48" : "flags/SVK_48.png",
-      "64" : "flags/SVK_64.png"
+      "64" : "flags/SVK_64.png",
+      "96" : "flags/SVK_96.png"
    },
    "SVN" : {
+      "128" : "flags/SVN_128.png",
       "16" : "flags/SVN_16.png",
       "24" : "flags/SVN_24.png",
       "32" : "flags/SVN_32.png",
       "48" : "flags/SVN_48.png",
-      "64" : "flags/SVN_64.png"
+      "64" : "flags/SVN_64.png",
+      "96" : "flags/SVN_96.png"
    },
    "SWE" : {
+      "128" : "flags/SWE_128.png",
       "16" : "flags/SWE_16.png",
       "24" : "flags/SWE_24.png",
       "32" : "flags/SWE_32.png",
       "48" : "flags/SWE_48.png",
-      "64" : "flags/SWE_64.png"
+      "64" : "flags/SWE_64.png",
+      "96" : "flags/SWE_96.png"
    },
    "SWZ" : {
+      "128" : "flags/SWZ_128.png",
       "16" : "flags/SWZ_16.png",
       "24" : "flags/SWZ_24.png",
       "32" : "flags/SWZ_32.png",
       "48" : "flags/SWZ_48.png",
-      "64" : "flags/SWZ_64.png"
+      "64" : "flags/SWZ_64.png",
+      "96" : "flags/SWZ_96.png"
    },
    "SXM" : {
+      "128" : "flags/SXM_128.png",
       "16" : "flags/SXM_16.png",
       "24" : "flags/SXM_24.png",
       "32" : "flags/SXM_32.png",
       "48" : "flags/SXM_48.png",
-      "64" : "flags/SXM_64.png"
+      "64" : "flags/SXM_64.png",
+      "96" : "flags/SXM_96.png"
    },
    "SYR" : {
+      "128" : "flags/SYR_128.png",
       "16" : "flags/SYR_16.png",
       "24" : "flags/SYR_24.png",
       "32" : "flags/SYR_32.png",
       "48" : "flags/SYR_48.png",
-      "64" : "flags/SYR_64.png"
+      "64" : "flags/SYR_64.png",
+      "96" : "flags/SYR_96.png"
    },
    "TAH" : {
+      "128" : "flags/TAH_128.png",
       "16" : "flags/TAH_16.png",
       "24" : "flags/TAH_24.png",
       "32" : "flags/TAH_32.png",
       "48" : "flags/TAH_48.png",
-      "64" : "flags/TAH_64.png"
+      "64" : "flags/TAH_64.png",
+      "96" : "flags/TAH_96.png"
    },
    "TAN" : {
+      "128" : "flags/TAN_128.png",
       "16" : "flags/TAN_16.png",
       "24" : "flags/TAN_24.png",
       "32" : "flags/TAN_32.png",
       "48" : "flags/TAN_48.png",
-      "64" : "flags/TAN_64.png"
+      "64" : "flags/TAN_64.png",
+      "96" : "flags/TAN_96.png"
    },
    "TCA" : {
+      "128" : "flags/TCA_128.png",
       "16" : "flags/TCA_16.png",
       "24" : "flags/TCA_24.png",
       "32" : "flags/TCA_32.png",
       "48" : "flags/TCA_48.png",
-      "64" : "flags/TCA_64.png"
+      "64" : "flags/TCA_64.png",
+      "96" : "flags/TCA_96.png"
    },
    "TGA" : {
+      "128" : "flags/TGA_128.png",
       "16" : "flags/TGA_16.png",
       "24" : "flags/TGA_24.png",
       "32" : "flags/TGA_32.png",
       "48" : "flags/TGA_48.png",
-      "64" : "flags/TGA_64.png"
+      "64" : "flags/TGA_64.png",
+      "96" : "flags/TGA_96.png"
    },
    "THA" : {
+      "128" : "flags/THA_128.png",
       "16" : "flags/THA_16.png",
       "24" : "flags/THA_24.png",
       "32" : "flags/THA_32.png",
       "48" : "flags/THA_48.png",
-      "64" : "flags/THA_64.png"
+      "64" : "flags/THA_64.png",
+      "96" : "flags/THA_96.png"
    },
    "TJK" : {
+      "128" : "flags/TJK_128.png",
       "16" : "flags/TJK_16.png",
       "24" : "flags/TJK_24.png",
       "32" : "flags/TJK_32.png",
       "48" : "flags/TJK_48.png",
-      "64" : "flags/TJK_64.png"
+      "64" : "flags/TJK_64.png",
+      "96" : "flags/TJK_96.png"
    },
    "TKM" : {
+      "128" : "flags/TKM_128.png",
       "16" : "flags/TKM_16.png",
       "24" : "flags/TKM_24.png",
       "32" : "flags/TKM_32.png",
       "48" : "flags/TKM_48.png",
-      "64" : "flags/TKM_64.png"
+      "64" : "flags/TKM_64.png",
+      "96" : "flags/TKM_96.png"
    },
    "TLS" : {
+      "128" : "flags/TLS_128.png",
       "16" : "flags/TLS_16.png",
       "24" : "flags/TLS_24.png",
       "32" : "flags/TLS_32.png",
       "48" : "flags/TLS_48.png",
-      "64" : "flags/TLS_64.png"
+      "64" : "flags/TLS_64.png",
+      "96" : "flags/TLS_96.png"
    },
    "TOG" : {
+      "128" : "flags/TOG_128.png",
       "16" : "flags/TOG_16.png",
       "24" : "flags/TOG_24.png",
       "32" : "flags/TOG_32.png",
       "48" : "flags/TOG_48.png",
-      "64" : "flags/TOG_64.png"
+      "64" : "flags/TOG_64.png",
+      "96" : "flags/TOG_96.png"
    },
    "TPE" : {
+      "128" : "flags/TPE_128.png",
       "16" : "flags/TPE_16.png",
       "24" : "flags/TPE_24.png",
       "32" : "flags/TPE_32.png",
       "48" : "flags/TPE_48.png",
-      "64" : "flags/TPE_64.png"
+      "64" : "flags/TPE_64.png",
+      "96" : "flags/TPE_96.png"
    },
    "TRI" : {
+      "128" : "flags/TRI_128.png",
       "16" : "flags/TRI_16.png",
       "24" : "flags/TRI_24.png",
       "32" : "flags/TRI_32.png",
       "48" : "flags/TRI_48.png",
-      "64" : "flags/TRI_64.png"
+      "64" : "flags/TRI_64.png",
+      "96" : "flags/TRI_96.png"
    },
    "TUN" : {
+      "128" : "flags/TUN_128.png",
       "16" : "flags/TUN_16.png",
       "24" : "flags/TUN_24.png",
       "32" : "flags/TUN_32.png",
       "48" : "flags/TUN_48.png",
-      "64" : "flags/TUN_64.png"
+      "64" : "flags/TUN_64.png",
+      "96" : "flags/TUN_96.png"
    },
    "TUR" : {
+      "128" : "flags/TUR_128.png",
       "16" : "flags/TUR_16.png",
       "24" : "flags/TUR_24.png",
       "32" : "flags/TUR_32.png",
       "48" : "flags/TUR_48.png",
-      "64" : "flags/TUR_64.png"
+      "64" : "flags/TUR_64.png",
+      "96" : "flags/TUR_96.png"
    },
    "TUV" : {
+      "128" : "flags/TUV_128.png",
       "16" : "flags/TUV_16.png",
       "24" : "flags/TUV_24.png",
       "32" : "flags/TUV_32.png",
       "48" : "flags/TUV_48.png",
-      "64" : "flags/TUV_64.png"
+      "64" : "flags/TUV_64.png",
+      "96" : "flags/TUV_96.png"
    },
    "UAE" : {
+      "128" : "flags/UAE_128.png",
       "16" : "flags/UAE_16.png",
       "24" : "flags/UAE_24.png",
       "32" : "flags/UAE_32.png",
       "48" : "flags/UAE_48.png",
-      "64" : "flags/UAE_64.png"
+      "64" : "flags/UAE_64.png",
+      "96" : "flags/UAE_96.png"
    },
    "UGA" : {
+      "128" : "flags/UGA_128.png",
       "16" : "flags/UGA_16.png",
       "24" : "flags/UGA_24.png",
       "32" : "flags/UGA_32.png",
       "48" : "flags/UGA_48.png",
-      "64" : "flags/UGA_64.png"
+      "64" : "flags/UGA_64.png",
+      "96" : "flags/UGA_96.png"
    },
    "UKR" : {
+      "128" : "flags/UKR_128.png",
       "16" : "flags/UKR_16.png",
       "24" : "flags/UKR_24.png",
       "32" : "flags/UKR_32.png",
       "48" : "flags/UKR_48.png",
-      "64" : "flags/UKR_64.png"
+      "64" : "flags/UKR_64.png",
+      "96" : "flags/UKR_96.png"
    },
    "URU" : {
+      "128" : "flags/URU_128.png",
       "16" : "flags/URU_16.png",
       "24" : "flags/URU_24.png",
       "32" : "flags/URU_32.png",
       "48" : "flags/URU_48.png",
-      "64" : "flags/URU_64.png"
+      "64" : "flags/URU_64.png",
+      "96" : "flags/URU_96.png"
    },
    "USA" : {
+      "128" : "flags/USA_128.png",
       "16" : "flags/USA_16.png",
       "24" : "flags/USA_24.png",
       "32" : "flags/USA_32.png",
       "48" : "flags/USA_48.png",
-      "64" : "flags/USA_64.png"
+      "64" : "flags/USA_64.png",
+      "96" : "flags/USA_96.png"
    },
    "UZB" : {
+      "128" : "flags/UZB_128.png",
       "16" : "flags/UZB_16.png",
       "24" : "flags/UZB_24.png",
       "32" : "flags/UZB_32.png",
       "48" : "flags/UZB_48.png",
-      "64" : "flags/UZB_64.png"
+      "64" : "flags/UZB_64.png",
+      "96" : "flags/UZB_96.png"
    },
    "VAN" : {
+      "128" : "flags/VAN_128.png",
       "16" : "flags/VAN_16.png",
       "24" : "flags/VAN_24.png",
       "32" : "flags/VAN_32.png",
       "48" : "flags/VAN_48.png",
-      "64" : "flags/VAN_64.png"
+      "64" : "flags/VAN_64.png",
+      "96" : "flags/VAN_96.png"
    },
    "VEN" : {
+      "128" : "flags/VEN_128.png",
       "16" : "flags/VEN_16.png",
       "24" : "flags/VEN_24.png",
       "32" : "flags/VEN_32.png",
       "48" : "flags/VEN_48.png",
-      "64" : "flags/VEN_64.png"
+      "64" : "flags/VEN_64.png",
+      "96" : "flags/VEN_96.png"
    },
    "VGB" : {
+      "128" : "flags/VGB_128.png",
       "16" : "flags/VGB_16.png",
       "24" : "flags/VGB_24.png",
       "32" : "flags/VGB_32.png",
       "48" : "flags/VGB_48.png",
-      "64" : "flags/VGB_64.png"
+      "64" : "flags/VGB_64.png",
+      "96" : "flags/VGB_96.png"
    },
    "VIE" : {
+      "128" : "flags/VIE_128.png",
       "16" : "flags/VIE_16.png",
       "24" : "flags/VIE_24.png",
       "32" : "flags/VIE_32.png",
       "48" : "flags/VIE_48.png",
-      "64" : "flags/VIE_64.png"
+      "64" : "flags/VIE_64.png",
+      "96" : "flags/VIE_96.png"
    },
    "VIN" : {
+      "128" : "flags/VIN_128.png",
       "16" : "flags/VIN_16.png",
       "24" : "flags/VIN_24.png",
       "32" : "flags/VIN_32.png",
       "48" : "flags/VIN_48.png",
-      "64" : "flags/VIN_64.png"
+      "64" : "flags/VIN_64.png",
+      "96" : "flags/VIN_96.png"
    },
    "VIR" : {
+      "128" : "flags/VIR_128.png",
       "16" : "flags/VIR_16.png",
       "24" : "flags/VIR_24.png",
       "32" : "flags/VIR_32.png",
       "48" : "flags/VIR_48.png",
-      "64" : "flags/VIR_64.png"
+      "64" : "flags/VIR_64.png",
+      "96" : "flags/VIR_96.png"
    },
    "WAL" : {
+      "128" : "flags/WAL_128.png",
       "16" : "flags/WAL_16.png",
       "24" : "flags/WAL_24.png",
       "32" : "flags/WAL_32.png",
       "48" : "flags/WAL_48.png",
-      "64" : "flags/WAL_64.png"
+      "64" : "flags/WAL_64.png",
+      "96" : "flags/WAL_96.png"
    },
    "YEM" : {
+      "128" : "flags/YEM_128.png",
       "16" : "flags/YEM_16.png",
       "24" : "flags/YEM_24.png",
       "32" : "flags/YEM_32.png",
       "48" : "flags/YEM_48.png",
-      "64" : "flags/YEM_64.png"
+      "64" : "flags/YEM_64.png",
+      "96" : "flags/YEM_96.png"
    },
    "ZAM" : {
+      "128" : "flags/ZAM_128.png",
       "16" : "flags/ZAM_16.png",
       "24" : "flags/ZAM_24.png",
       "32" : "flags/ZAM_32.png",
       "48" : "flags/ZAM_48.png",
-      "64" : "flags/ZAM_64.png"
+      "64" : "flags/ZAM_64.png",
+      "96" : "flags/ZAM_96.png"
    },
    "ZAN" : {
+      "128" : "flags/ZAN_128.png",
       "16" : "flags/ZAN_16.png",
       "24" : "flags/ZAN_24.png",
       "32" : "flags/ZAN_32.png",
       "48" : "flags/ZAN_48.png",
-      "64" : "flags/ZAN_64.png"
+      "64" : "flags/ZAN_64.png",
+      "96" : "flags/ZAN_96.png"
    },
    "ZIM" : {
+      "128" : "flags/ZIM_128.png",
       "16" : "flags/ZIM_16.png",
       "24" : "flags/ZIM_24.png",
       "32" : "flags/ZIM_32.png",
       "48" : "flags/ZIM_48.png",
-      "64" : "flags/ZIM_64.png"
+      "64" : "flags/ZIM_64.png",
+      "96" : "flags/ZIM_96.png"
    }
 }

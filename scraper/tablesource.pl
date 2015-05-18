@@ -41,7 +41,7 @@ wq($data)
 
         return unless $code =~ /[A-Z]{3}/;
 
-        for my $size ( 16, 24, 32, 48, 64 ) {
+        for my $size ( 16, 24, 32, 48, 64, 96, 128 ) {
             my $rps   = $size . "px";
             my $rsuri = $flaguri =~ s/\d\dpx/$rps/r;    #/
             io( "../flags/$code" . "_$size.png" ) < io( 'https:' . $rsuri );
